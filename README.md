@@ -9,3 +9,5 @@ POST your long URL to `/shorten` like:
   "long_url": "https://your-super-long-url.com"
 }
 ```
+
+> ⚠️ Obviously don't use this in prod lol. This is just a basic in-memory thing that I needed for my usecase.
